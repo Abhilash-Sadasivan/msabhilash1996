@@ -1,3 +1,3 @@
-### Hi there 👋, I am Abhlash!
+### Hi there 👋, I am Abhilash!
 
-![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Abhilash-Sadasivan/Abhilash-Sadasivan/output/github-contribution-grid-snake.svg)
